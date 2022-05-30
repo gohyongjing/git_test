@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./BelleBold.ttf'),
+      url('./LuluRegular.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-size: 40px;
+    font-family: 'MyFont';
+    background: url('./windowsxp.jpeg');
+}
